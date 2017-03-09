@@ -1,2 +1,4 @@
 # hello-world
-My forst repository.
+My first repository.
+
+Hi, My name is Kartik, and I joined GITHUB on 09 March, 2017.
